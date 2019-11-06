@@ -1,0 +1,45 @@
+{
+    "options": {
+        "domains": [],
+        "inputIDs": [],
+        "limit": []
+    },
+    "templates": [
+        {
+            "issuetype-field": "",
+            "name": "DEFAULT TEMPLATE",
+            "projects-field": "",
+            "text": ""
+        },        
+        {
+            "issuetype-field": "Feature",
+            "name": "3DS FEATURE TEMPLATE",
+            "projects-field": "TDS2",
+            "text": "*Summary*\n<TI>As a [persona], I [want to], [so that].</TI>\n\n*Acceptance criteria*\n<TI>Scenario: \nGiven\nWhen\nThen </TI>\n\n*Additional Information*\n<TI> (Optional) Enter any background or references such as Swagger specs, tech docs links, etc. that may help with developing the feature.</TI>"
+        },
+        {
+            "issuetype-field": "Improvement",
+            "name": "IMPROVEMENT TEMPLATE",
+            "projects-field": "",
+            "text": "*Summary*\n<TI>Enter a summary of the Improvement here.</TI>\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, or points about implementation here.</TI>\n\n*Additional Information*\n<TI>Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature.</TI>"
+        },
+        {
+            "issuetype-field": "Epic",
+            "name": "EPIC TEMPLATE",
+            "projects-field": "",
+            "text": "*Epic*\nAs a <TI>type of user/persona</TI>, I want <TI>to perform some task</TI>, so that I can <TI>achieve some goal/benefit/value</TI>.\n\n*Details*\n<TI>Enter any details, clarifications, answers to questions, and points about implementation here.</TI>"
+        },
+        {
+            "issuetype-field": "Bug",
+            "name": "3DS BUG TEMPLATE",
+            "projects-field": "TDS2",
+            "text": "*Steps to Reproduce*\n<TI>Enter detailed steps to reproduce here. More detail is better.</TI>\n\n*Expected Behaviour*\n<TI>Enter what should happen here.</TI>"
+        },
+        {
+            "issuetype-field": "Task",
+            "name": "3DS TASK TEMPLATE",
+            "projects-field": "TDS2",
+            "text": "*Summary*\n<TI>As a [persona], I [want to], [so that].</TI>\n\n*Acceptance criteria*\n<TI>Scenario: \nGiven\nWhen\nThen </TI>\n\n*Additional Information*\n<TI> (Optional) Enter any background or references such as Swagger specs, tech docs links, number or nature of subtasks.</TI>"
+        }
+    ]
+}
